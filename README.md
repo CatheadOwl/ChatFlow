@@ -36,6 +36,7 @@ The goal is to explore **BranchChat** as a **minimal extension** of the classic 
 - 🔄 **Automatic upstream context tracing**  
   Automatically includes all upstream nodes as context (full history)
 - ✂️ **Manual context pruning**
+
   Delete or modify intermediate nodes to:
   - Remove unwanted memory
   - Fix unsatisfactory Q&A

@@ -22,6 +22,10 @@ npm run dev
 
 Open the local Vite URL shown in the terminal.
 
+### Set a provider
+Once you’re in the canvas, don’t forget to set up a provider with your API key (OpenAI API-compatible).
+> Note: Avoid exposing real API keys in the frontend. Prefer a **backend proxy** and store the real key on the server to reduce leakage risk.
+
 ## 📘 Overview 
 
 **ChatFlow** is a chat application that supports **branching conversations**.

@@ -1,6 +1,6 @@
 # ChatFlow
 
-ChatFlow is a small toy project that explores how **linear chat conversations can be visualized and extended into branching flows**.
+ChatFlow is a small experimental chat app for exploring **branching conversations** as a **minimal extension** of **linear chat**.
 ## 📸 Screenshots
 ![new](assets/new.jpg)
 
@@ -29,7 +29,8 @@ Once you’re in the canvas, don’t forget to set up a provider with your API k
 ## 📘 Overview 
 
 **ChatFlow** is a chat application that supports **branching conversations**.
-The goal is to explore **BranchChat** as a **minimal extension** of the classic linear chat model, without turning it into a complex workflow engine.
+
+The goal is to explore branching chat as a **minimal extension** of the classic linear chat model, without turning it into a complex workflow engine.
 
 ## ✨ Key Features
 
@@ -49,9 +50,9 @@ The goal is to explore **BranchChat** as a **minimal extension** of the classic 
 
 > Splitting problems solves most problems.
 
-- Long conversations dilute focus
-- Different solution paths should not pollute each other
-- Explicit branching keeps reasoning clean
+- **Long context** spreads **attention** too thin
+- Different lines of thought should not pollute each other
+- Explicit branching keeps **reasoning** clean
 ## 🎯 Typical Use Cases
 
 ### 🤖 LLM Multi-Answer Exploration
